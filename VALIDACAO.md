@@ -24,7 +24,3 @@ Foram corrigidos durante as execuções reais: seletor de produto que alcançava
 - SHA256 do ZIP remoto: `2f21fdbd65c460dffb382330cfc41026b532b0aab97562bae798dee8a98a6125`.
 
 A atualização posterior deste documento altera somente a evidência, sem modificar os testes validados.
-
-## Conferência com o guia
-
-O PDF fornecido foi lido, incluindo os critérios da página 4: dez cenários na ordem indicada, módulos por contexto, `module.exports`, seletores centralizados, `should` em funções de validação, spec com chamadas de ações, contas independentes, relatório HTML e workflow. O caso 14 não está incluído. O histórico registra a implementação consolidada, sem inventar commits individuais retroativos.

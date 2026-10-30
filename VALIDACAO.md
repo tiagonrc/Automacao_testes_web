@@ -16,7 +16,14 @@ Foram corrigidos durante as execuções reais: seletor de produto que alcançava
 
 ## GitHub Actions
 
-Execução hospedada será registrada após o primeiro push. A aprovação local acima não substitui esse resultado.
+- [Execução 41112712167](https://github.com/tiagonrc/Automacao_testes_web/actions/runs/41112712167), acionada por push em 30/10/2026 às 16:08 (America/Sao_Paulo).
+- Commit de código validado: `7e6253c176a9ef5249306187fb4db6631ab89c73`.
+- Job `e2e`: concluído com sucesso em Ubuntu 26.04, Node 24.22.1 e Electron 146.
+- Resultado: **10 aprovados, 0 falhas, 0 pendentes, 0 ignorados**, aproximadamente 46 segundos.
+- Artefato `cypress-evidence`, ID `13003593407`, 370665 bytes, contém o HTML e o JSON do relatório; retenção até 13/11/2026.
+- SHA256 do ZIP remoto: `2f21fdbd65c460dffb382330cfc41026b532b0aab97562bae798dee8a98a6125`.
+
+A atualização posterior deste documento altera somente a evidência, sem modificar os testes validados.
 
 ## Conferência com o guia
 

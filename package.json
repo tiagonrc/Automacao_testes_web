@@ -1,0 +1,14 @@
+{
+  "name": "pgats-automation-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dez cenários independentes Cypress para Automation Exercise",
+  "scripts": {
+    "test": "cypress run --browser electron",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "16.2.1",
+    "cypress-mochawesome-reporter": "5.0.0"
+  }
+}

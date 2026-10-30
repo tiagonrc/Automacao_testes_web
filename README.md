@@ -52,11 +52,3 @@ Nos casos 15/16 é validada a confirmação persistente da página final, cujo t
 ## GitHub Actions
 
 Publique os arquivos, incluindo `package-lock.json` e `.github`, na raiz de um repositório. O workflow roda em push, pull request ou acionamento manual. Consulte a aba Actions e baixe `cypress-evidence`. Não requer Cypress Cloud nem token de gravação. Execução local não comprova execução hospedada.
-
-Repositório: https://github.com/tiagonrc/Automacao_testes_web (privado). Para avaliação por outra pessoa, conceda acesso ao avaliador ou entregue o ZIP conforme as regras da instituição.
-
-## Guia do trabalho
-
-Guia conferido em 30/10/2026: dez casos na ordem solicitada, módulos por contexto com `module.exports`, `const seletores`, spec composta de chamadas de ações, dados independentes, relatório HTML, npm test e GitHub Actions. O histórico registra a implementação consolidada; não simula commits individuais anteriores por caso. Consulte `VALIDACAO.md` para o resultado real da execução.
-
-Referências: [casos oficiais](https://automationexercise.com/test_cases), [API de apoio](https://automationexercise.com/api_list), [configuração Cypress](https://docs.cypress.io/app/references/configuration), [relatório Mochawesome](https://github.com/LironEr/cypress-mochawesome-reporter).

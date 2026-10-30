@@ -51,4 +51,4 @@ Nos casos 15/16 é validada a confirmação persistente da página final, cujo t
 
 ## GitHub Actions
 
-Publique os arquivos, incluindo `package-lock.json` e `.github`, na raiz de um repositório. O workflow roda em push, pull request ou acionamento manual. Consulte a aba Actions e baixe `cypress-evidence`. Não requer Cypress Cloud nem token de gravação. Execução local não comprova execução hospedada.
+Publique os arquivos, incluindo `package-lock.json` e `.github`, na raiz de um repositório. O workflow roda em push, pull request ou acionamento manual. Consulte a aba Actions e baixe `cypress-evidence`. Não requer Cypress Cloud nem token de gravação.

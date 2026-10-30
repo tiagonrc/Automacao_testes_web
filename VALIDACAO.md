@@ -12,8 +12,6 @@
 - Sintaxe JavaScript e `git diff --cached --check` verificadas.
 - `node_modules` excluído do versionamento.
 
-Foram corrigidos durante as execuções reais: seletor de produto que alcançava também a seção de recomendados e nomes dos atributos `data-qa` do pagamento. Não foram adicionadas exceções globais, simulações das respostas da aplicação ou retentativas para ocultar falhas.
-
 ## GitHub Actions
 
 - [Execução 41112712167](https://github.com/tiagonrc/Automacao_testes_web/actions/runs/41112712167), acionada por push em 30/10/2026 às 16:08 (America/Sao_Paulo).
@@ -22,5 +20,3 @@ Foram corrigidos durante as execuções reais: seletor de produto que alcançava
 - Resultado: **10 aprovados, 0 falhas, 0 pendentes, 0 ignorados**, aproximadamente 46 segundos.
 - Artefato `cypress-evidence`, ID `13003593407`, 370665 bytes, contém o HTML e o JSON do relatório; retenção até 13/11/2026.
 - SHA256 do ZIP remoto: `2f21fdbd65c460dffb382330cfc41026b532b0aab97562bae798dee8a98a6125`.
-
-A atualização posterior deste documento altera somente a evidência, sem modificar os testes validados.
